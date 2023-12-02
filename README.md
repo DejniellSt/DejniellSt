@@ -37,10 +37,6 @@
 <br/>
 <br/>
 
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DejniellSt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 <a href = "https://www.linkedin.com/in/daniel-st%C4%99pie%C5%84-0578721b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
