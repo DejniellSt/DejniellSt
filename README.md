@@ -25,8 +25,6 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/fluency/64/000000/matlab.png"/>    
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
   <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-test-online-education-itim2101-lineal-color-itim2101.png"/> 
