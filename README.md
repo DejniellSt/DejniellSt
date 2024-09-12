@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **automation specjalist.** 
-
-- 🌱 I’m currently learning **software testing.**
+- Software developer
 
 - 👯 I want to cooperate on interesting projects and those in which I will learn a lot
 
