@@ -1,14 +1,17 @@
 ![image](https://github.com/user-attachments/assets/5bbb83fd-6956-46a9-bed3-27ad0bc734f3)<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel</h1>
-<h3 align="center">Hi, I'm Daniel, I'm an automation and robotics engineer by education. In my career I worked as an automation engineer, embedded systems programmer. Currently I'm involved in software automation testing. I'm interested in high-level languages, in my free time I expand my knowledge in these areas.</h3>
+<h3 align="center">I'm an automation and robotics engineer by education. In my career I worked as an automation engineer, embedded systems programmer. Currently I'm involved in software automation testing. I'm interested in high-level languages, in my free time I expand my knowledge in these areas.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - Software developer
-- 👯 I am constantly developing, I like to learn about new technologies and participate in interesting projects that allow me to fulfill myself.**
   
+- Software testing
+
+- Process automation  
+    
 - 📫 How to reach me **danielstepien.ds@gmail.com**
   
 - ⚡ Hobby : **games, sports, travelling, new technologies .**
