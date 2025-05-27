@@ -23,9 +23,8 @@
 <p align="left"> 
   <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
   <img src="[https://img.icons8.com/color/48/000000/python.png](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)"/>
-  <img src="[https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000](https://img.icons8.com/?size=100&id=bCu25JrJ39EB&format=png&color=000000)"/>    
+  <img src="[[https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000](https://img.icons8.com/?size=100&id=bCu25JrJ39EB&format=png&color=000000)](https://img.icons8.com/?size=100&id=gXR9fwimIOsU&format=png&color=000000)"/>    
   <img src="[https://img.icons8.com/color/48/000000/git.png](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)"/>
   <img src="https://img.icons8.com/?size=100&id=30840&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000"/>
