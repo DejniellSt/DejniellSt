@@ -29,7 +29,7 @@
   <img src="[https://img.icons8.com/color/48/000000/git.png](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)"/>
   <img src="https://img.icons8.com/?size=100&id=30840&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000"/>
-  <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-test-online-education-itim2101-lineal-color-itim2101.png"/> 
+  <img src="https://img.icons8.com/?size=100&id=TPyG4ejO9nAC&format=png&color=000000"/> 
 </p>
 
 <br/>
