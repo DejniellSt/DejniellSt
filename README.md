@@ -24,10 +24,11 @@
   <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/fluency/64/000000/matlab.png"/>    
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
- <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+  <img src="[https://img.icons8.com/color/48/000000/python.png](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)"/>
+  <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000"/>    
+  <img src="[https://img.icons8.com/color/48/000000/git.png](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)"/>
+  <img src="https://img.icons8.com/?size=100&id=30840&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000"/>
   <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-test-online-education-itim2101-lineal-color-itim2101.png"/> 
 </p>
 
