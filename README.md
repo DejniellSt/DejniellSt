@@ -22,7 +22,7 @@
 
 <p align="left"> 
   <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/fluency/64/000000/matlab.png"/>    
