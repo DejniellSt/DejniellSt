@@ -12,7 +12,7 @@
 
 - Process automation  
     
-- 📫 How to reach me **danielstepien.ds@gmail.com**
+- 📫 How to reach me **danielstepien.ds@gmail.com or dstepien1993@gmail.com**
   
 - ⚡ Hobby : **games, sports, travelling, new technologies .**
 
