@@ -93,10 +93,7 @@
   <a href="mailto:danielstepien.ds@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
   </a>
-</p>
-
-<p align="center">
+  <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZuZWJ0M3BzMzl5djFvcjQ2eWVhdGxrNTRnenYyNHo4cGpweGt0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yidUzqLoT6SxgKzv20/giphy.gif" alt="Michael Scott GIF" width="300"/>
 </p>
-
-
+</p>
