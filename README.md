@@ -85,9 +85,7 @@
 </p>
 
 ## 📫 Connect with Me
-  <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZuZWJ0M3BzMzl5djFvcjQ2eWVhdGxrNTRnenYyNHo4cGpweGt0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yidUzqLoT6SxgKzv20/giphy.gif" alt="Michael Scott GIF" width="300"/>
-</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-st%C4%99pie%C5%84-0578721b9/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
@@ -95,4 +93,7 @@
   <a href="mailto:danielstepien.ds@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
   </a>
+</p>
+  <p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQyb2JjMmgwMDFxNWdtZnIxMjlicXhwajJhY2poYjhpeWJ3ZTFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Michael Scott GIF" width="300"/>
 </p>
