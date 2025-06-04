@@ -1,5 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
-
+<p align = "center">
+<a href="#"><img width="700" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Daniel</h1>
 <h3 align="center">🤖 Automation and Robotics Engineer | 🧪 Software Tester | 💻 Software Developer</h3>
 
@@ -58,30 +59,35 @@
 
 <p align="center">
   <a href="https://github.com/DejniellSt/Design_patterns_Csharp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Design_patterns_Csharp&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Design_patterns_Csharp&theme=default" alt="Design_patterns_Csharp Repo" />
   </a>
   <a href="https://github.com/DejniellSt/Cpp_algorithms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Cpp_algorithms&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Cpp_algorithms&theme=default" alt="Cpp_algorithms Repo" />
   </a>
   <a href="https://github.com/DejniellSt/Gui_automation_Csharp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Gui_automation_Csharp&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Gui_automation_Csharp&theme=default" alt="Gui_automation_Csharp Repo" />
   </a>
   <a href="https://github.com/DejniellSt/Robot_framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Robot_framework&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Robot_framework&theme=default" alt="Robot_framework Repo" />
   </a>
   <a href="https://github.com/DejniellSt/Python_snake_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Python_snake_AI&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Python_snake_AI&theme=default" alt="Python_snake_AI Repo" />
   </a>
   <a href="https://github.com/DejniellSt/Cpp_QT_mp3_gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Cpp_QT_mp3_gui&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Cpp_QT_mp3_gui&theme=default" alt="Cpp_QT_mp3_gui Repo" />
   </a>
   <a href="https://github.com/DejniellSt/Introduction_to_web_programming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Introduction_to_web_programming&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Introduction_to_web_programming&theme=default" alt="Introduction_to_web_programming Repo" />
   </a>
   <a href="https://github.com/DejniellSt/Python_road_detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Python_road_detection&theme=default" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Python_road_detection&theme=default" alt="Python_road_detection Repo" />
+  </a>
+</p>
 
+## 📊 Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DejniellSt&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ## 📫 Connect with Me
@@ -95,5 +101,5 @@
   </a>
 </p>
   <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQyb2JjMmgwMDFxNWdtZnIxMjlicXhwajJhY2poYjhpeWJ3ZTFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Michael Scott GIF" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQyb2JjMmgwMDFxNWdtZnIxMjlicXhwajJhY2poYjhpeWJ3ZTFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Michael Scott GIF" width="250"/>
 </p>
