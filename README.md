@@ -51,7 +51,7 @@
 - ✅ Python on Raspberry PI (OpenCV, Remote Control)
 - ✅ Expanding my knowledge of testing
 - ✅ Computer networks
-- ✅ Expendig my knowledge of automation control 
+- ✅ Expanding my knowledge of automation control 
 - ✅ Web technologies
 
 ---
