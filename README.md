@@ -31,7 +31,7 @@
 
 ## 🚀 Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
