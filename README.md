@@ -29,27 +29,26 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" width="100"/>
 </p>
 
-## 🚀 Languages & Tools
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/ios/48/mac-os--v1.png" alt="macOS"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/arduino.png" alt="Arduino"/>
-  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio"/>
-  <img src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-</p>
+## 💻 Tech Stack
+
+- 🧠 **Programming Languages**: C#, C++, Python, VBS  
+- 🧰 **Frameworks & Libraries**: Robot Framework, Selenium, OpenCV  
+- 🗄️ **Databases**: MySQL, Microsoft SQL Server  
+- 🔄 **Version Control Systems**: Git, SVN, BitBucket  
+- 🛠️ **Development Tools**: Visual Studio, MATLAB, LabView  
+- 📋 **Project Management Systems**: JIRA, Asana, Azure DevOps  
+- 📡 **Embedded Systems**: Arduino, STM32, Raspberry Pi  
+- 🖥️ **Operating Systems**: Windows, Linux
+
 
 ## 🧰 Currently Learning
 
 - ✅ .NET and C++
+- ✅ Godot (game development)
 - ✅ Python on Raspberry PI (OpenCV, Remote Control)
-- ✅ Expanding my knowledge of testing
 - ✅ Computer networks
+- ✅ Expanding my knowledge of testing
 - ✅ Expanding my knowledge of automation control 
 - ✅ Web technologies
 <p align="center"> <img src="https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif" alt="The Office Michael Happy" width="200"/> </p>
@@ -84,11 +83,27 @@
   </a>
 </p>
 
+
 ## 📊 Language Stats
+
+> My most used programming languages and GitHub activity summary.
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/02fd216a449ad43093a8ed09bb8e4e97488b06ce0db0dbb526e7e0a31560205d/68747470733a2f2f616c6c6861636b65642e636f6d2f75702f323031392f30332f68656c6c6f2d776f726c642e676966" alt="Godot Engine GIF" width="350"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DejniellSt&layout=compact&theme=default" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DejniellSt&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DejniellSt&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
 
 ## 📫 Connect with Me
 
@@ -103,3 +118,4 @@
   <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQyb2JjMmgwMDFxNWdtZnIxMjlicXhwajJhY2poYjhpeWJ3ZTFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Michael Scott GIF" width="250"/>
 </p>
+
