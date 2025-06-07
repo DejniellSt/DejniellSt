@@ -41,17 +41,25 @@
 
 ## 🧰 Currently Learning
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+    
 - 🎮 **Godot** (game development)  
 - 🧠 **.NET and C++**  
 - 🐍 **Python on Raspberry PI** (OpenCV, Remote Control)  
 - 🌐 **Web technologies** (HTML, CSS, JS basics)  
 - 🌐 **Computer networks** (networking fundamentals)  
 - 🧪 **Expanding knowledge in software testing**  
-- ⚙️ **Expanding knowledge in automation control**  
+- ⚙️ **Expanding knowledge in automation control**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif" alt="Learning Animation" width="200"/>
-</p>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif" alt="Learning Animation" width="200"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 📦 Featured Repositories
 
