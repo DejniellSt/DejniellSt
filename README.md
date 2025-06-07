@@ -39,26 +39,20 @@
 - 📡 **Embedded Systems**: ![Arduino](https://img.icons8.com/color/24/arduino.png) Arduino, ![STM32](https://img.icons8.com/fluency/24/chip.png) STM32, ![Raspberry Pi](https://img.icons8.com/color/24/raspberry-pi.png) Raspberry Pi  
 - 🖥️ **Operating Systems**: ![Windows](https://img.icons8.com/color/24/windows-10.png) Windows, ![Linux](https://img.icons8.com/color/24/linux.png) Linux
 
+
 ## 🧰 Currently Learning
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-    
 - 🎮 **Godot** (game development)  
 - 🧠 **.NET and C++**  
 - 🐍 **Python on Raspberry PI** (OpenCV, Remote Control)  
 - 🌐 **Web technologies** (HTML, CSS, JS basics)  
 - 🌐 **Computer networks** (networking fundamentals)  
 - 🧪 **Expanding knowledge in software testing**  
-- ⚙️ **Expanding knowledge in automation control**
+- ⚙️ **Expanding knowledge in automation control**  
 
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif" alt="Learning Animation" width="200"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif" alt="Learning Animation" width="200"/>
+</p>
 
 
 ## 📦 Featured Repositories
