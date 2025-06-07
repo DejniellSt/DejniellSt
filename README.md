@@ -28,7 +28,6 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Animation" width="100"/>
 </p>
 
-
 ## 💻 Tech Stack
 
 - 🧠 **Programming Languages**: C#, C++, Python, VBS  
@@ -39,7 +38,6 @@
 - 📋 **Project Management Systems**: JIRA, Asana, Azure DevOps  
 - 📡 **Embedded Systems**: ![Arduino](https://img.icons8.com/color/24/arduino.png) Arduino, ![STM32](https://img.icons8.com/fluency/24/chip.png) STM32, ![Raspberry Pi](https://img.icons8.com/color/24/raspberry-pi.png) Raspberry Pi  
 - 🖥️ **Operating Systems**: ![Windows](https://img.icons8.com/color/24/windows-10.png) Windows, ![Linux](https://img.icons8.com/color/24/linux.png) Linux
-
 
 ## 🧰 Currently Learning
 
@@ -54,7 +52,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/1zSz5MVw4zKg0/giphy.gif" alt="Learning Animation" width="200"/>
 </p>
-
 
 ## 📦 Featured Repositories
 
@@ -93,7 +90,6 @@
   </a>
 </p>
 
-
 ## 📊 Language Stats
 
 > My most used programming languages and GitHub activity summary.
@@ -118,7 +114,6 @@
   </tr>
 </table>
 
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -133,6 +128,6 @@
   </a>
 </p>
 
- <p align="center">
+<p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQyb2JjMmgwMDFxNWdtZnIxMjlicXhwajJhY2poYjhpeWJ3ZTFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" alt="Michael Scott GIF" width="300"/>
 </p>
