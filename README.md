@@ -58,6 +58,9 @@
 > ⚒️ Projects I'm most proud of:
 
 <p align="center">
+  <a href="https://github.com/DejniellSt/Godot_shooter_game_2d-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Godot_shooter_game_2d&theme=default" alt="Godot_shooter_game_2d Repo" />
+  </a>
   <a href="https://github.com/DejniellSt/Godot_game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Godot_game&theme=default" alt="Godot_game Repo" />
   </a>
