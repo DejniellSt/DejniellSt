@@ -64,6 +64,9 @@
   <a href="https://github.com/DejniellSt/Godot_game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Godot_game&theme=default" alt="Godot_game Repo" />
   </a>
+  <a href="https://github.com/DejniellSt/Godot_shooter_game_2d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Godot_shooter_game_2d&theme=default" alt="Godot_shooter_game_2d Repo" />
+  </a>
   <a href="https://github.com/DejniellSt/Design_patterns_Csharp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Design_patterns_Csharp&theme=default" alt="Design_patterns_Csharp Repo" />
   </a>
