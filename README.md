@@ -103,7 +103,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DejniellSt&layout=compact&theme=default" alt="Top Languages" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DejniellSt&theme=default" alt="GitHub Streak" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DejniellSt&theme=default" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
