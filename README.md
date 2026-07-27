@@ -93,17 +93,13 @@
 
 > My most used programming languages and GitHub activity summary.
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/02fd216a449ad43093a8ed09bb8e4e97488b06ce0db0dbb526e7e0a31560205d/68747470733a2f2f616c6c6861636b65642e636f6d2f75702f323031392f30332f68656c6c6f2d776f726c642e676966" alt="Godot Engine GIF" width="300"/>
-</p>
-
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DejniellSt&layout=compact&theme=default" alt="Top Languages" />
     </td>
     <td align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DejniellSt&theme=default" alt="GitHub Streak" />
+     <img src="https://streak-stats.demolab.com/?user=DejniellSt&theme=default" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
