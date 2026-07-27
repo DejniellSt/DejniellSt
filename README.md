@@ -59,52 +59,65 @@
 
 > ⚒️ Projects I'm most proud of:
 
-<p align="center">
-  <a href="https://github.com/DejniellSt/Godot_game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Godot_game&theme=default" alt="Godot_game Repo" />
-  </a>
-  <a href="https://github.com/DejniellSt/Design_patterns_Csharp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Design_patterns_Csharp&theme=default" alt="Design_patterns_Csharp Repo" />
-  </a>
-  <a href="https://github.com/DejniellSt/Cpp_algorithms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Cpp_algorithms&theme=default" alt="Cpp_algorithms Repo" />
-  </a>
-  <a href="https://github.com/DejniellSt/Gui_automation_Csharp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Gui_automation_Csharp&theme=default" alt="Gui_automation_Csharp Repo" />
-  </a>
-  <a href="https://github.com/DejniellSt/Robot_framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Robot_framework&theme=default" alt="Robot_framework Repo" />
-  </a>
-  <a href="https://github.com/DejniellSt/Python_snake_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Python_snake_AI&theme=default" alt="Python_snake_AI Repo" />
-  </a>
-  <a href="https://github.com/DejniellSt/Cpp_QT_mp3_gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Cpp_QT_mp3_gui&theme=default" alt="Cpp_QT_mp3_gui Repo" />
-  </a>
-  <a href="https://github.com/DejniellSt/Introduction_to_web_programming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Introduction_to_web_programming&theme=default" alt="Introduction_to_web_programming Repo" />
-  </a>
-  <a href="https://github.com/DejniellSt/Python_road_detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Python_road_detection&theme=default" alt="Python_road_detection Repo" />
-  </a>
-</p>
-
-## 📊 Language Stats
-
-> My most used programming languages and GitHub activity summary.
-
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DejniellSt&layout=compact&theme=default" alt="Top Languages" />
+      <a href="https://github.com/DejniellSt/Godot_game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Godot_game&theme=default" alt="Godot_game Repo" />
+      </a>
     </td>
     <td align="center">
-     <img src="https://streak-stats.demolab.com/?user=DejniellSt&theme=default" alt="GitHub Streak" />
+      <a href="https://github.com/DejniellSt/Design_patterns_Csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Design_patterns_Csharp&theme=default" alt="Design_patterns_Csharp Repo" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DejniellSt&show_icons=true&theme=default" alt="GitHub Stats" />
+    <td align="center">
+      <a href="https://github.com/DejniellSt/Cpp_algorithms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Cpp_algorithms&theme=default" alt="Cpp_algorithms Repo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DejniellSt/Gui_automation_Csharp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Gui_automation_Csharp&theme=default" alt="Gui_automation_Csharp Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DejniellSt/Robot_framework">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Robot_framework&theme=default" alt="Robot_framework Repo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DejniellSt/Python_snake_AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Python_snake_AI&theme=default" alt="Python_snake_AI Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DejniellSt/Cpp_QT_mp3_gui">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Cpp_QT_mp3_gui&theme=default" alt="Cpp_QT_mp3_gui Repo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DejniellSt/Introduction_to_web_programming">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Introduction_to_web_programming&theme=default" alt="Introduction_to_web_programming Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DejniellSt/Python_road_detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=Python_road_detection&theme=default" alt="Python_road_detection Repo" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DejniellSt/E2E-IdoBooking-RF">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DejniellSt&repo=E2E-IdoBooking-RF&theme=default" alt="E2E-IdoBooking-RF Repo" />
+      </a>
     </td>
   </tr>
 </table>
